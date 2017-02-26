@@ -2,7 +2,6 @@
 
 * [PHP扩展开发及内核应用](README.md)
 * [介绍](index.md)
-* [目录](preface.md)
 * [1 PHP的生命周期](1.md)
    * [1.1 让我们从SAPI开始](1.1.md)
    * [1.2 PHP的启动与终止](1.2.md)
